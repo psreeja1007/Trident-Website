@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Sophie Welcome Dinner",
+    "description": "A super warm welcome for the sophies with yummy food, ice-breaker games, and a chill intro to the council and hostel life—basically your first taste of Trident vibes!",
+    "photo": "images/events/sophie_welcome_dinner.png",
+    "date": "06-08-2025"
+  },
+  {
+    "title": "Independence Day",
+    "description": "Flag hoisting, cultural performances, and fun games—celebrating the spirit of freedom with full hostel energy!",
+    "photo": "images/events/independence_day.jpeg",
+    "date": "15-08-2025"
+  },
+  {
+    "title": "Krishna Janmashtami Pooja",
+    "description": "A peaceful and heartwarming celebration with bhajans, stories, and traditions that bring everyone together.",
+    "photo": "images/events/janmastami_pooja.jpeg",
+    "date": "16-08-2025"
+  },
+  {
+    "title": "Dahi Handi",
+    "description": "Blindfolds, teamwork, chaos, cheering squads—our iconic, loud, and super fun Dahi Handi madness!",
+    "photo": "images/events/dahi_handi.jpeg",
+    "date": "15-08-2025"
+  },
+  {
+    "title": "Ganesh Chaturthi",
+    "description": "Daily aartis, prasad, decorations, music, and the most wholesome community vibes leading up to the grand Visarjan!",
+    "photo": "images/events/ganesh_chathurthi.jpeg",
+    "date": "27-08-2025"
+  },
+  {
+    "title": "Diwali Movie Night",
+    "description": "Mehendi, popcorn, fairy lights, and a cozy movie night—basically the perfect Diwali chill plan.",
+    "photo": "images/events/movie_night.jpeg",
+    "date": "18-10-2025"
+  },
+  {
+    "title": "Board Games Night",
+    "description": "Monopoly fights, Ludo betrayals, Shaasan chaos, and beautiful rangolis—peak hostel bonding unlocked.",
+    "photo": "images/events/board_games.jpeg",
+    "date": "19-10-2025"
+  },
+  {
+    "title": "Laxmi Pooja",
+    "description": "A calm and beautiful Diwali ritual filled with lights, prayers, and good vibes for the year ahead.",
+    "photo": "images/events/laxmi_pooja.jpeg",
+    "date": "20-10-2025"
+  }
+]

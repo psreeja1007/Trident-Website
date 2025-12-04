@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Mess",
+    "description": "The go-to spot where everyone bonds over daily meals and gossip.",
+    "photo": "images/facilities/mess.jpeg"
+  },
+  {
+    "title": "Lounge Room",
+    "description": "A cozy, chilled-out space to relax, unwind, and catch up with friends.",
+    "photo": "images/facilities/lounge_room.jpeg"
+  },
+  {
+    "title": "Dance Room",
+    "description": "A dedicated space for dance practices—planned, impromptu, and everything in between.",
+    "photo": "images/facilities/danceroom.jpg"
+  },
+  {
+    "title": "Study Room",
+    "description": "A quiet, focused environment designed to help you study without distractions.",
+    "photo": "images/facilities/study_room.jpeg"
+  },
+  {
+    "title": "Laundry",
+    "description": "Fully equipped laundry facilities to make washing clothes simple and hassle-free.",
+    "photo": "images/facilities/laundry.jpeg"
+  },
+  {
+    "title": "WiFi",
+    "description": "Reliable high-speed WiFi available throughout the hostel for study and streaming.",
+    "photo": "images/facilities/wifi.webp"
+  },
+  {
+    "title": "Gym Room",
+    "description": "A well-equipped fitness room to help you stay active, healthy, and motivated.",
+    "photo": "images/facilities/gym.jpeg"
+  },
+  {
+    "title": "Playground",
+    "description": "An open outdoor space for sports, recreation, and your everyday chill sessions.",
+    "photo": "images/facilities/playground.jpeg"
+  }
+]
