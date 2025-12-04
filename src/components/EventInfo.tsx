@@ -5,7 +5,7 @@ export const EventInfo = () => {
   const [events, setEvents] = useState([]);
 
   useEffect(() => {
-    fetch("/data/events.json")
+    fetch(`${process.env.PUBLIC_URL}/data/events.json`)
       .then((res) => res.json())
       .then((data) => setEvents(data))
       .catch((err) => console.error("Error loading events:", err));

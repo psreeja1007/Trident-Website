@@ -5,7 +5,7 @@ export const FacilitiesInfo = () => {
   const [facilities, setFacilities] = useState([]);
 
   useEffect(() => {
-    fetch("/data/facilities.json")
+    fetch(`${process.env.PUBLIC_URL}/data/facilities.json`)
       .then((res) => res.json())
       .then((data) => setFacilities(data))
       .catch((err) => console.error("Error loading facilities:", err));

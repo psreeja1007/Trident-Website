@@ -6,7 +6,7 @@ export const BlogPage = () => {
   const [blogs, setBlogs] = useState([]);
 
   useEffect(() => {
-    fetch("/data/blog.json")
+    fetch(`${process.env.PUBLIC_URL}/data/blog.json`)
       .then((res) => res.json())
       .then((data) => {
         // Sort blogs by date (latest first)

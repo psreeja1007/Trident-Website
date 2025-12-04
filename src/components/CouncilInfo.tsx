@@ -26,7 +26,7 @@ export const CouncilInfo = () => {
   const [people, setPeople] = useState<Person[]>([]);
 
   useEffect(() => {
-    fetch("/data/council.json")
+    fetch(`${process.env.PUBLIC_URL}/data/council.json`)
       .then((res) => res.json())
       .then((data) => setPeople(data))
       .catch((err) => console.error("Error loading contact info:", err));

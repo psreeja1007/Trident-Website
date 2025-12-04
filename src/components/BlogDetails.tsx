@@ -10,13 +10,15 @@ export const BlogDetails = () => {
   const [blog, setBlog] = useState<any>(null);
 
   useEffect(() => {
-    fetch("/data/blog.json")
+    fetch(`${process.env.PUBLIC_URL}/data/blog.json`)
       .then((res) => res.json())
       .then((data) => {
         const found = data.find((b: any) => String(b.id) === String(id));
         setBlog(found);
-      });
+      })
+      .catch((err) => console.error("Error loading blog.json:", err));
   }, [id]);
+
 
   if (!blog) return <p className="text-center mt-20">Loading...</p>;
 
