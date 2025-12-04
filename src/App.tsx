@@ -14,7 +14,7 @@ import { ScrollToTop } from "./components/ScrollToTop";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <ScrollToTop/>
       <Navbar />
       <main className="flex-1 bg-surface min-h-screen">
