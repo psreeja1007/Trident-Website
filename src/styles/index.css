@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* ------------------------------------
+   ROOT THEME VARIABLES
+------------------------------------ */
+:root {
+  --bg: #fafafb; /* light neutral background */
+  --text: #0f172a; /* slate-900 */
+  --purple: #7c3aed; /* primary purple */
+  --cyan: #06b6d4; /* accent cyan */
+}
+
+/* ------------------------------------
+   GLOBAL RESET
+------------------------------------ */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(
+    0deg,
+    #f1e9f7 0%,      /* very light nude lavender */
+    #faf5f1 40%,     /* soft cream */
+    #faf5f1 60%,     /* keep cream center wider for smooth blend */
+    #f1e9f7 100%     /* same light nude lavender bottom */
+  );
+  background-size: 100% 100%;
+  color: var(--text);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
+
+
+/* ------------------------------------
+   CUSTOM SHADOWS (soft aesthetic)
+------------------------------------ */
+.shadow-soft {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.shadow-soft-lg {
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+}
+
+/* ------------------------------------
+   BUTTON GRADIENT (Purple → Cyan)
+------------------------------------ */
+.btn-gradient {
+  @apply inline-flex items-center justify-center px-6 py-3 rounded-full 
+  text-white font-medium transition-transform;
+
+  background-image: linear-gradient(90deg, var(--purple), var(--cyan));
+}
+
+/* ------------------------------------
+   CARD GLASS GRADIENT
+------------------------------------ */
+.card-gradient {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.10),
+    rgba(255, 255, 255, 0.02)
+  );
+  @apply rounded-xl p-6 shadow-soft-lg;
+}
+
+/* ------------------------------------
+   HERO BACKGROUND GRADIENT
+------------------------------------ */
+.hero-bg {
+  background-image: linear-gradient(135deg, var(--purple), var(--cyan));
+}
+
+/* ------------------------------------
+   GLASSMORPHISM SURFACE
+------------------------------------ */
+.glass {
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}

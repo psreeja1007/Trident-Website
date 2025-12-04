@@ -1,0 +1,242 @@
+[
+    {
+        "name" : "Stuti Singla",
+        "designation" : "General Secretary",
+        "council" : "main council",
+        "email" : "gsech15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/stuti-singla-/",
+        "image_path" : "images/council/stuti.jpeg"
+    },
+    {
+        "name" : "Ishika Biswas",
+        "designation" : "Warden Nominee",
+        "council" : "main council",
+        "email" : "gsech15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/ishika-biswas-33188128a/",
+        "image_path" : "images/council/ishika.jpeg"
+    },
+    {
+        "name" : "Chandreyee Sarkar",
+        "designation" : "Sports Councillor",
+        "council" : "sports council",
+        "email" : "sportscoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/chandreyee-sarkar-8091132a9/",
+        "image_path" : "images/council/chandreyee.jpeg"
+    },
+    {
+        "name" : "Shreeya Choudhary",
+        "designation" : "Mess Councillor",
+        "council" : "mess council",
+        "email" : "messcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/shreeya-c/",
+        "image_path" : "images/council/shreeya.jpeg"
+    },
+    {
+        "name" : "Avishi Raj",
+        "designation" : "Maintenance Councillor",
+        "council" : "maintenance council",
+        "email" : "maintcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/avishi-raj-737486310/",
+        "image_path" : "images/council/avishi.jpeg"
+    },
+    {
+        "name" : "Pranathi Sreeja Meesala",
+        "designation" : "Technical Councillor",
+        "council" : "technical council",
+        "email" : "techcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/pranathi-sreeja-meesala-4809632b2/",
+        "image_path" : "images/council/sreeja.jpeg"
+    },
+    {
+        "name" : "Laxmi Prasanna Morishetty",
+        "designation" : "Web and Design Nominee",
+        "council" : "design council",
+        "email" : "",
+        "linkedin" : "https://www.linkedin.com/in/laxmi-prasanna-morishetty-475269296/",
+        "image_path" : "images/council/laxmi.jpeg"
+    },
+    {
+        "name" : "Satvika Lily Grace Kondepati",
+        "designation" : "Web and Design Nominee",
+        "council" : "design council",
+        "email" : "",
+        "linkedin" : "https://www.linkedin.com/in/satvika-lily-grace-kondepati-818469296/",
+        "image_path" : "images/council/satvika.jpeg"
+    },
+    {
+        "name" : "Shrijani Korepaka",
+        "designation" : "Web and Design Secy",
+        "council" : "design council",
+        "email" : "",
+        "linkedin" : "https://www.linkedin.com/in/shrijani-korepaka-400b1a341/",
+        "image_path" : "images/council/shrijani.jpeg"
+    },
+    {
+        "name" : "Indu Sri",
+        "designation" : "Web and Design Secy",
+        "council" : "design council",
+        "email" : "",
+        "linkedin" : "https://www.linkedin.com/in/indu-sri-b8011b320/",
+        "image_path" : "images/council/indu.jpeg"
+    },
+    {
+        "name" : "Sanjana Boyina",
+        "designation" : "Technical Secretary",
+        "council" : "technical council",
+        "email" : "techcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/sanjana-boyina-0b949b32b/",
+        "image_path" : "images/council/sanjana.jpeg"
+    },
+    {
+        "name" : "Tashvi Meshram",
+        "designation" : "Technical Secretary",
+        "council" : "technical council",
+        "email" : "techcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/tashvi-meshram-070b3731a/",
+        "image_path" : "images/council/tashvi.jpeg"
+    },
+    {
+        "name" : "Ashvini Bhadane",
+        "designation" : "Sports Secretary",
+        "council" : "sports council",
+        "email" : "sportscoh15@iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/ashvini.jpeg"
+    },
+    {
+        "name" : "Divyanshi Awasthi",
+        "designation" : "Sports Secretary",
+        "council" : "sports council",
+        "email" : "sportscoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/div-awasthi09/",
+        "image_path" : "images/council/divyanshi.jpeg"
+    },
+    {
+        "name" : "Lacky Yadav",
+        "designation" : "Sports Secretary",
+        "council" : "sports council",
+        "email" : "sportscoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/lacky-yadav-015b6b341/",
+        "image_path" : "images/council/lacky.jpeg"
+    },
+    {
+        "name" : "Gaayathri Rathod",
+        "designation" : "Sports Secretary",
+        "council" : "sports council",
+        "email" : "sportscoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/gaayathri-rathod-0284b7332/",
+        "image_path" : "images/council/gaayathri.jpeg"
+    },
+    {
+        "name" : "Anviksha Vipasanna",
+        "designation" : "Mess Secretary",
+        "council" : "mess council",
+        "email" : "messcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/anviksha-vipassana-305087327/",
+        "image_path" : "images/council/anviksha.jpeg"
+    },
+    {
+        "name" : "Manishika Agarwal",
+        "designation" : "Mess Secretary",
+        "council" : "mess council",
+        "email" : "messcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/manishika-agarwal-842ba5240/",
+        "image_path" : "images/council/manishika.jpeg"
+    },
+    {
+        "name" : "Shruti Gaikwad",
+        "designation" : "Mess Secretary",
+        "council" : "mess council",
+        "email" : "messcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/shruti-gaikwad-66359a380/",
+        "image_path" : "images/council/shruti.jpeg"
+    },
+    {
+        "name" : "Rishika Khurana",
+        "designation" : "Mess Secretary",
+        "council" : "mess council",
+        "email" : "messcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/rishika-khurana-/",
+        "image_path" : "images/council/rishika.jpeg"
+    },
+    {
+        "name" : "Leena S Mungekar",
+        "designation" : "Hall Manager",
+        "council" : "main council",
+        "email" : "h15hallmanager@iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/Leena.jpg"
+    },
+    {
+        "name" : "Anupama Kowli",
+        "designation" : "Warden",
+        "council" : "warden",
+        "email" : "anu@ee.iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/anupama.png"
+    },
+    {
+        "name" : "Ashwani Yella",
+        "designation" : "Warden",
+        "council" : "warden",
+        "email" : "Aswani.yella@iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/yella.jpg"
+    },
+    {
+        "name" : "Karthik Sasihithlu",
+        "designation" : "Warden",
+        "council" : "warden",
+        "email" : "ksasihithlu@ese.iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/karthik-sasihithlu-8812949/",
+        "image_path" : "images/council/karthik.jpg"
+    },
+    {
+        "name" : "Gurminder Singh",
+        "designation" : "Warden",
+        "council" : "warden",
+        "email" : "Gurminder.singh@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/dr-gurminder-singh-09895480/",
+        "image_path" : "images/council/gurminder.jpeg"
+    },
+    {
+        "name" : "Shweta Soni",
+        "designation" : "Alumni Secretary",
+        "council" : "alumni council",
+        "email" : "",
+        "linkedin" : "https://www.linkedin.com/in/shweta-soni-2729641b2/",
+        "image_path" : "images/council/shweta.jpeg"
+    },
+    {
+        "name" : "Nishtha Singh",
+        "designation" : "Cultural Secretary",
+        "council" : "cultural council",
+        "email" : "cultcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/nishtha-singh-635666258/",
+        "image_path" : "images/council/nishtha.jpeg"
+    },
+    {
+        "name" : "Prajna Parimita Nayak",
+        "designation" : "Cultural Secretary",
+        "council" : "cultural council",
+        "email" : "cultcoh15@iitb.ac.in",
+        "linkedin" : "https://www.linkedin.com/in/prajna-parimita-nayak-b310bb374/",
+        "image_path" : "images/council/prajna.jpeg"
+    },
+    {
+        "name" : "Reena Dhawan",
+        "designation" : "Cultural Secretary",
+        "council" : "cultural council",
+        "email" : "cultcoh15@iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/reena.jpeg"
+    },
+    {
+        "name" : "Shiksha",
+        "designation" : "Cultural Secretary",
+        "council" : "cultural council",
+        "email" : "cultcoh15@iitb.ac.in",
+        "linkedin" : "",
+        "image_path" : "images/council/shiksha.jpeg"
+    }
+]
