@@ -40,20 +40,12 @@
     "photo": "images/gallery/10.jpg"
   },
   {
-    "id": "11",
-    "photo": "images/gallery/11.jpg"
-  },
-  {
     "id": "12",
     "photo": "images/gallery/12.jpg"
   },
   {
     "id": "13",
     "photo": "images/gallery/13.jpg"
-  },
-  {
-    "id": "14",
-    "photo": "images/gallery/14.jpg"
   },
   {
     "id": "15",
@@ -90,9 +82,5 @@
   {
     "id": "23",
     "photo": "images/gallery/23.jpg"
-  },
-  {
-    "id": "24",
-    "photo": "images/gallery/24.png"
   }
 ]
