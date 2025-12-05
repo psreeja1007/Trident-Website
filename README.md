@@ -10,7 +10,7 @@ To run this project on your local machine, follow the steps below.
 ```bash
     git clone <repository-url>
 ```
-2. Install the required packages(in the correct directory):
+2. Install the required packages (in the correct directory):
 ```bash
     npm install
 ```
