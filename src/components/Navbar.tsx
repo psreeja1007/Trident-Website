@@ -19,7 +19,7 @@ export const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const navLinks = ["Home", "Facilities", "Events", "Blog", "Council", "Contact"];
+  const navLinks = ["Home", "Facilities", "Events", "Blog", "Council", "Gallery", "Contact"];
 
   return (
     <motion.nav

@@ -11,6 +11,7 @@ import { BlogDetails } from "./components/BlogDetails";
 import { Contact } from "./pages/Contact";
 import { Facilities } from "./pages/Facilities";
 import { ScrollToTop } from "./components/ScrollToTop";
+import { Gallery } from "./pages/Gallery";
 
 export default function App() {
   return (
@@ -31,6 +32,7 @@ export default function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/:id" element={<BlogDetails />} />
+          <Route path="/gallery" element={<Gallery />} />
           <Route path="/contact" element={<Contact />} />
           </Routes>
         </motion.div>
