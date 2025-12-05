@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Trident-Website/static/css/main.bc32f998.css",
-    "main.js": "/Trident-Website/static/js/main.f0c959cc.js",
+    "main.css": "/Trident-Website/static/css/main.33c79c94.css",
+    "main.js": "/Trident-Website/static/js/main.b70e1a85.js",
     "index.html": "/Trident-Website/index.html",
-    "main.bc32f998.css.map": "/Trident-Website/static/css/main.bc32f998.css.map",
-    "main.f0c959cc.js.map": "/Trident-Website/static/js/main.f0c959cc.js.map"
+    "main.33c79c94.css.map": "/Trident-Website/static/css/main.33c79c94.css.map",
+    "main.b70e1a85.js.map": "/Trident-Website/static/js/main.b70e1a85.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc32f998.css",
-    "static/js/main.f0c959cc.js"
+    "static/css/main.33c79c94.css",
+    "static/js/main.b70e1a85.js"
   ]
 }
