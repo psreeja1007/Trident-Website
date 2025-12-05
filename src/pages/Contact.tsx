@@ -82,6 +82,8 @@ export const Contact = () => {
               <option value="">Select type</option>
               <option value="mess">Mess</option>
               <option value="maintenance">Maintenance</option>
+              <option value="sports">Sports</option>
+              <option value="lan">LAN</option>
               <option value="general">General</option>
             </select>
           </div>
@@ -140,6 +142,74 @@ export const Contact = () => {
           ></iframe>
         </motion.div>
       </div>
+
+      {/* IMPORTANT LINKS */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6, delay: 0.2 }}
+        className="mt-16"
+      >
+        <h2 className="text-3xl font-bold text-purple-800 text-center mb-6">
+          Quick Links
+        </h2>
+
+        <div className="flex flex-wrap justify-center gap-4 max-w-5xl mx-auto">
+          
+          {/* Link 1 */}
+          <a
+            href="https://support.iitb.ac.in/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 bg-white border border-purple-300 text-purple-700 text-center rounded-xl font-semibold shadow hover:bg-purple-50 transition w-full sm:w-auto"
+          >
+            IITB Complaint Maintenance Portal
+          </a>
+
+          {/* Link 2 */}
+          <a
+            href="http://www.iitb.ac.in/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 bg-white border border-purple-300 text-purple-700 text-center rounded-xl font-semibold shadow hover:bg-purple-50 transition w-full sm:w-auto"
+          >
+            IITB Official Website
+          </a>
+
+          {/* Link 3 */}
+          <a
+            href="https://gymkhana.iitb.ac.in/hostels/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 bg-white border border-purple-300 text-purple-700 text-center rounded-xl font-semibold shadow hover:bg-purple-50 transition w-full sm:w-auto"
+          >
+            Hostel Affairs
+          </a>
+
+          {/* Link 4 */}
+          <a
+            href="https://gymkhana.iitb.ac.in/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 bg-white border border-purple-300 text-purple-700 text-center rounded-xl font-semibold shadow hover:bg-purple-50 transition w-full sm:w-auto"
+          >
+            Gymkhana Website
+          </a>
+
+          {/* Link 5 */}
+          <a
+            href="https://gymkhana.iitb.ac.in/~ugacademics/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 bg-white border border-purple-300 text-purple-700 text-center rounded-xl font-semibold shadow hover:bg-purple-50 transition w-full sm:w-auto"
+          >
+            UG Academics
+          </a>
+
+        </div>
+      </motion.div>
+
+
     </div>
   );
 };

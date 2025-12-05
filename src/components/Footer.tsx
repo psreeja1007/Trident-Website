@@ -1,4 +1,3 @@
-
 export const Footer = () => {
   return (
     <footer className="w-full py-10 bg-transparent flex justify-center">
@@ -42,6 +41,18 @@ export const Footer = () => {
               <circle cx="12.5" cy="3.5" r="1" />
             </svg>
           </a>
+
+          {/* FACEBOOK */}
+          <a
+            href="https://www.facebook.com/h15iitb/"
+            target="_blank" rel="noopener noreferrer"
+            className="w-9 h-9 flex items-center justify-center rounded-full border border-purple-300 hover:shadow-md hover:-translate-y-0.5 transition-all"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="#7c3aed" viewBox="0 0 16 16">
+              <path d="M8 0C3.58 0 0 3.58 0 8c0 3.98 2.93 7.28 6.75 7.93v-5.6H4.9V8h1.85V6.2c0-1.83 1.09-2.85 2.76-2.85.8 0 1.64.14 1.64.14v1.8h-.92c-.91 0-1.19.56-1.19 1.14V8h2.03l-.32 2.33H8.24v5.6C12.07 15.28 15 11.98 15 8c0-4.42-3.58-8-8-8z"/>
+            </svg>
+          </a>
+
         </div>
       </div>
     </footer>
